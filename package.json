@@ -38,6 +38,7 @@
     "name": "Laurent Renard",
     "email": "laurent34azerty@gmail.com"
   },
+  "types": "index.d.ts",
   "license": "MIT",
   "dependencies": {
     "deep-equal": "^1.0.1",
